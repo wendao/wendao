@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/wendao/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=wendao&style=flat-square&color=blue" />
 </div>
 
 ###
